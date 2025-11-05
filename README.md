@@ -33,7 +33,7 @@
   
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
    
-- ❤ Apasionado por contribuir a la comunidad tech y la educación online.
+- ❤ Apasionado por contribuir a la comunidad tech .
   
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
