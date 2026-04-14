@@ -29,9 +29,9 @@
 <a target="_blank" align="center">
 <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvaroramosx&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/></a>
 
-- ✨ Machine Learning & Deep Learning Developer.
+- ✨  Deep Learning Developer.
   
-- 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
+- 🌱 Actualmente, sigo aprendiendo y explorando el mundo de la Inteligencia Artificial.
    
 - ❤ Apasionado por contribuir a la comunidad tech .
   
