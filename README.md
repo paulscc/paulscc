@@ -23,7 +23,7 @@
 
 <!--tech stack icons-->     
 <p align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,django,mongo,mysql,c,html,css,react,nodejs&perline=10"  />
 </p>
 
 ## Sobre mi
